@@ -1,2 +1,2 @@
-# Front-End-Vue
+# Frontend (Vue.js)
 Vue Front End Project 
